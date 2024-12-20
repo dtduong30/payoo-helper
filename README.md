@@ -1,2 +1,3 @@
-# payoo-helper
-A lighter, more utility-focused for integrate payoo
+# simple-bank
+
+A side project undertaken during free time to explore new technologies, refine backend development skills, and gain valuable experience.
